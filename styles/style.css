@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url("../fonts/ubuntu.ttf");
+}
+
+body {
+  background-color: white;
+  border: medium solid black;
+  border-radius: 1em;
+  margin-inline: auto;
+  max-width: 1000px;
+  padding-inline: 1em;
+}
+
+h1 {
+  color: #F06529;
+  font-size: 40px;
+  text-align: center;
+}
+
+html {
+  background-color: #EEEEEE;
+  font-family: "Ubuntu";
+  line-height: 2;
+}
